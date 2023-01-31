@@ -15,6 +15,9 @@ Back testing framework which will compute a numerical and graphical comparison o
 
 ## Installation
 
+* Clone the repo: git clone https://github.com/ewokwong/Historical-Trading-Strategy-Analysis.git
+* Download Python modules detailed in requirements.txt
+
 ## Credits
 
 Inspiration: https://www.youtube.com/watch?v=bARCE45FM4s&ab_channel=Hallden
